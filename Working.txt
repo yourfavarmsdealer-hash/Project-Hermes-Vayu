@@ -1,0 +1,5 @@
+This is custom project that I have been working on. Just exploring the cryptography as i felt it was cool.
+Phase 1: It uses Keyword Substitution, here the custom keyword is COURTAB
+Phase 2: It uses Numeric mapping to convert the alphabets to number for further mixing or as the technical term Permutation
+Phase 3: Diffusion and Permutation
+Phase 4: S-box transformation to create non linear confusion
